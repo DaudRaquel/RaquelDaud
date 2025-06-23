@@ -70,7 +70,7 @@ Atualmente focada em:
 
 ### 🤝 Vamos nos conectar?
 
-- 📬 Email: **daudpython@gmail.com**
+- 📬 Email: **raqueldaud.rd@gmail.com**
 - 💼 LinkedIn: [https://www.linkedin.com/in/raquel-daud-72a3991a2/](https://www.linkedin.com/in/raquel-daud-72a3991a2/)
 
 ---
