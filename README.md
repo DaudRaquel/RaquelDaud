@@ -70,7 +70,7 @@ Atualmente focada em:
 
 ### 🤝 Vamos nos conectar?
 
-- 📬 Email: **raqueldaud.rd@gmail.com**
+- 📬 Email: **daudpython@gmail.com**
 - 💼 LinkedIn: [https://www.linkedin.com/in/raquel-daud-72a3991a2/](https://www.linkedin.com/in/raquel-daud-72a3991a2/)
 
 ---
@@ -84,5 +84,5 @@ Meu foco é sempre **entregar soluções que facilitem a vida das pessoas com c�
 ---
 
 <!---
-RaquelDaud180/RaquelDaud180 é um ✨ repositório especial ✨ porque o README.md deste perfil aparece automaticamente no seu perfil do GitHub.
+DaudRaquel/DaudRaquel é um ✨ repositório especial ✨ porque o README.md deste perfil aparece automaticamente no seu perfil do GitHub.
 --->
