@@ -1,83 +1,81 @@
-<div align="center">
+<h1 align="center">Olá, eu sou a Raquel Daud 👋</h1>
 
-# Raquel Daud
-### Backend Developer · Data Engineer · BI Analyst
+<p align="center">
+  <b>Desenvolvedora Python | Backend · Flask · APIs REST | Engenharia de Dados</b><br/>
+  <i>Transformando processos manuais em soluções automáticas e dados brutos em decisões estratégicas</i>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Python+%F0%9F%90%8D;SQL+Lover+%F0%9F%97%83%EF%B8%8F;Flask+Web+Developer+%F0%9F%8C%90;BI+e+Automação+de+Dados+%F0%9F%93%8A;Curiosa+por+Natureza+%F0%9F%8C%9F&center=true&width=500&height=45)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raquel_Daud-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raquel-daud-72a3991a2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dauddev.netlify.app-FF6B6B?style=for-the-badge&logo=netlify)](https://dauddev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-daudpython@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:daudpython@gmail.com)
-
-</div>
-
----
-
-## 👩‍💻 Sobre mim
-
-Desenvolvedora backend e analista de dados com foco em **automação de processos financeiros**, **pipelines ETL** e **sistemas web com Flask**. Atuo com integração entre sistemas ERP (TOTVS RM/Oracle), bancos de dados relacionais e ferramentas de BI.
-
-Transformo processos manuais que levam horas em scripts que rodam em minutos.
+<p align="center">
+  <a href="https://www.linkedin.com/in/raquel-daud-dev"><img src="https://img.shields.io/badge/LinkedIn-raquel--daud--dev-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://dauddev.netlify.app"><img src="https://img.shields.io/badge/Portfólio-dauddev.netlify.app-FF5722?style=for-the-badge&logo=netlify"/></a>
+  <a href="mailto:raqueldaud.rd@gmail.com"><img src="https://img.shields.io/badge/Email-raqueldaud.rd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🐍 Sobre mim
+
+Sou desenvolvedora Python com foco em **Backend Development**, **Automação de Processos** e **Engenharia de Dados**. Minha trajetória começou automatizando rotinas fiscais com VBA e evoluiu para um stack robusto em Python, Flask, Django e integração com bancos de dados corporativos.
+
+Hoje atuo na **Ceopag Franchising SA** (subadquirente de pagamentos) desenvolvendo pipelines de dados, sistemas internos em Flask, integrações com APIs financeiras (Pix, Boleto, Cielo, Rede, Stone, Getnet) e dashboards estratégicos em Power BI.
+
+> 💡 Especialidade: transformar necessidades reais de negócio em código limpo, eficiente e escalável.
+
+---
+
+## 🛠️ Stack Técnica
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**dre**](https://github.com/DaudRaquel/dre) | DRE financeiro com breakdowns, KPIs e cache em memória | Flask · MySQL · Chart.js |
-| [**monitoramento_sub**](https://github.com/DaudRaquel/monitoramento_sub) | Plataforma de conciliação financeira multi-banco em produção | Flask · MySQL · DuckDB · Parquet |
-| [**gerenciador_tarefas**](https://github.com/DaudRaquel/gerenciador_tarefas) | Gerenciador inspirado no Monday.com integrado ao TOTVS RM | Flask · Oracle · MySQL · pytest |
-| [**processadoras_banco**](https://github.com/DaudRaquel/processadoras_banco) | ETL incremental com deduplicação SHA-256 | Python · MySQL · Pandas |
-| [**conciliacao_financeira**](https://github.com/DaudRaquel/conciliacao_financeira) | Reconciliação financeira via REST API | Flask · DuckDB · Pandas |
-| [**transfeera**](https://github.com/DaudRaquel/transfeera) | Automação com 2FA/TOTP para portal Transfeera | Selenium · pyotp |
-| [**automatizar_documentos**](https://github.com/DaudRaquel/automatizar_documentos) | Geração de PDFs para motoristas via TOTVS RM | Oracle · ReportLab · Selenium |
-| [**woovi**](https://github.com/DaudRaquel/woovi) | Integração Woovi Pix com webhook HMAC | Flask · requests |
-| [**whatsapp_automacao**](https://github.com/DaudRaquel/whatsapp_automacao) | Bot WhatsApp Web com anti-detecção | Selenium · Flask |
-| [**Gerador-Holerite**](https://github.com/DaudRaquel/Gerador-Holerite) | Holerites automáticos em PDF com INSS/IRRF/FGTS | Oracle · ReportLab |
+| [🏦 monitoramento_sub](https://github.com/DaudRaquel/monitoramento_sub) | Plataforma de conciliação financeira para sub-adquirentes | Flask · MySQL · DuckDB |
+| [💸 woovi](https://github.com/DaudRaquel/woovi) | Integração Pix com geração de cobranças e webhook HMAC-SHA256 | Python · Flask · REST API |
+| [📊 processadoras_banco](https://github.com/DaudRaquel/processadoras_banco) | Pipeline ETL incremental com deduplicação SHA-256 (Cielo, Rede, Stone, Getnet) | Python · MySQL · ETL |
+| [🔄 conciliacao_financeira](https://github.com/DaudRaquel/conciliacao_financeira) | Reconciliação financeira comparando interno vs processadora | Flask · DuckDB · REST API |
+| [📧 relatorio_receitas](https://github.com/DaudRaquel/relatorio_receitas) | Relatórios financeiros automáticos com envio por e-mail | Flask · MySQL · openpyxl |
+| [🤖 transfeera](https://github.com/DaudRaquel/transfeera) | Automação Selenium com 2FA TOTP para portal Transfeera | Python · Selenium · TOTP |
+| [📄 automatizar_documentos](https://github.com/DaudRaquel/automatizar_documentos) | Geração automática de PDFs — TOTVS RM + ReportLab | Python · Oracle · Selenium |
+| [✅ gerenciador_tarefas](https://github.com/DaudRaquel/gerenciador_tarefas) | Gerenciador de tarefas integrado ao ERP TOTVS | Flask · Oracle · SMTP |
 
 ---
 
-## 🛠️ Stack principal
+## 📈 GitHub Stats
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DaudRaquel&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaudRaquel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</p>
 
 ---
 
-## 📊 Áreas de atuação
+## 🌱 Atualmente
 
-```
-Backend Development    ████████████████░░░░  80%
-ETL & Data Pipelines   ███████████████░░░░░  75%
-Business Intelligence  ██████████████░░░░░░  70%
-Automação de Processos ████████████████████  95%
-Integração com ERPs    ██████████████████░░  90%
-```
+- 📚 Cursando **Engenharia de Software** (Anhanguera, conclusão 2026)
+- 🔭 Desenvolvendo soluções de **dados financeiros** em ambiente de produção
+- 🎯 Buscando oportunidades como **Desenvolvedora Python Backend** ou **Engenheira de Dados**
+- 🌐 Disponível para: Remoto · Híbrido · Presencial
 
 ---
 
-## 📫 Contato
-
-- 💼 **LinkedIn:** [linkedin.com/in/raquel-daud-72a3991a2](https://www.linkedin.com/in/raquel-daud-72a3991a2/)
-- 🌐 **Portfolio:** [dauddev.netlify.app](https://dauddev.netlify.app/)
-- 📧 **Email:** daudpython@gmail.com
-
----
-
-<div align="center">
-<i>"Se tem um problema... eu já estou pensando em como automatizar a solução."</i>
-</div>
+<p align="center">
+  <i>Aberta a novas oportunidades — vamos conversar? 🚀</i><br/>
+  <b>raqueldaud.rd@gmail.com | (17) 99102-2247</b>
+</p>
