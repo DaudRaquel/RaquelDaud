@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Raquel Daud"/>
+
 
 <!-- Texto digitando -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Python+%7C+Flask+%7C+Django+%7C+FastAPI+%F0%9F%90%8D;Backend+Developer+%26+Data+Engineer+%F0%9F%9A%80;MySQL+%7C+REST+APIs+%7C+ETL+%7C+Power+BI+%F0%9F%93%8A;Automa%C3%A7%C3%A3o+de+Processos+%7C+Selenium+%F0%9F%A4%96;Integra%C3%A7%C3%B5es+Financeiras+%7C+Pix+%7C+Boleto+%F0%9F%92%B3" alt="Typing SVG" />
