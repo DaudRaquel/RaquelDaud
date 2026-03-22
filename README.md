@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FBE&height=200&section=header&text=Raquel%20Daud&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20%26%20Dados&descAlignY=60&descSize=20" />
 
 <!-- Texto digitando -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Python+%7C+Flask+%7C+Django+%7C+FastAPI+%F0%9F%90%8D;Backend+Developer+%26+Data+Engineer+%F0%9F%9A%80;MySQL+%7C+REST+APIs+%7C+ETL+%7C+Power+BI+%F0%9F%93%8A;Automação+de+Processos+%7C+Selenium+%F0%9F%A4%96;Integrações+Financeiras+%7C+Pix+%7C+Boleto+%F0%9F%92%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Python+%7C+Flask+%7C+Django+%7C+FastAPI+%F0%9F%90%8D;Backend+Developer+%26+Data+Engineer+%F0%9F%9A%80;MySQL+%7C+REST+APIs+%7C+ETL+%7C+Power+BI+%F0%9F%93%8A;Automa%C3%A7%C3%A3o+de+Processos+%7C+Selenium+%F0%9F%A4%96;Integra%C3%A7%C3%B5es+Financeiras+%7C+Pix+%7C+Boleto+%F0%9F%92%B3" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ## 🐍 Sobre mim
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+<img align="right" src="raquel_sem_marca.gif" width="300" alt="Raquel Dev"/>
 
 ```python
 class RaquelDaud:
