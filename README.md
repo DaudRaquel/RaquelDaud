@@ -34,26 +34,65 @@
 
 ```python
 class RaquelDaud:
-    nome     = "Raquel Daud"
-    stack    = ["Python", "Flask", "Django", "FastAPI"]
-    banco    = ["MySQL", "SQL Server", "Oracle", "DuckDB"]
-    devops   = ["Git", "GitHub", "REST APIs", "ETL"]
-    bi       = ["Power BI", "DAX", "Pandas", "NumPy"]
+    nome       = "Raquel Daud"
+    stack      = ["Python", "Flask", "Django", "FastAPI", "JavaScript"]
+    banco      = ["MySQL", "SQL Server", "Oracle", "DuckDB"]
+    devops     = ["Git", "GitHub", "REST APIs", "ETL"]
+    bi         = ["Power BI", "DAX", "Pandas", "NumPy"]
+    formacao   = "Engenharia de Software — Anhanguera"
 
     def missao(self):
-        return "Transformar dados e processos em soluções reais"
+        return "Construir soluções backend robustas que resolvem problemas reais"
 ```
 
-Desenvolvedora Python com foco em **Backend** e **Engenharia de Dados**.  
-Atuo na **Ceopag Franchising SA** — subadquirente de pagamentos — construindo:
+Desenvolvedora Backend apaixonada por **Python** e **JavaScript**.  
+Estudante de **Engenharia de Software** na Anhanguera, com forte foco em desenvolvimento prático através de diversos projetos reais:
 
-- 🏦 Pipelines de dados financeiros com Python + MySQL
-- ⚙️ Sistemas internos com Flask para automação de processos
-- 🔗 Integrações com APIs de pagamento (Pix, Cielo, Stone, Rede, Getnet)
-- 📊 Dashboards estratégicos em Power BI com DAX avançado
-- 🤖 Automações Selenium com 2FA para portais corporativos
+- 🐍 **Python** — Flask, Django e FastAPI para APIs REST e automações
+- ⚙️ **Bancos de Dados** — MySQL, SQL Server, Oracle e DuckDB
+- 🔗 **Integrações** — APIs REST, webhooks e processamento de dados
+- 📊 **Engenharia de Dados** — ETL, Power BI e análise com Pandas
+- 🚀 **Prática constante** — Diversos projetos desenvolvidos aplicando conceitos reais
+
+Acredito que o melhor aprendizado vem da **prática** — cada projeto é uma oportunidade de evoluir e criar algo que faça a diferença.
 
 <br clear="right"/>
+
+---
+
+## 💡 Filosofia de Desenvolvimento
+
+### Código Limpo é Respeito
+
+Não adianta ter o conhecimento técnico mais afiado do mercado se o seu código é difícil de ler, manter ou evoluir. Código limpo é respeito — com quem vai dar manutenção depois, com o time, e com você mesma no futuro.
+
+- ✨ Nomes autoexplicativos para variáveis e funções
+- 🎯 Uma função deve fazer apenas uma coisa
+- 💬 Comentários explicam o **por quê**, não o o quê
+- 🧪 Testes como documentação viva
+
+### Mobile-First desde o Início
+
+Interfaces precisam ser pensadas para mobile desde o início. Pequenos ajustes visuais fazem grande diferença na usabilidade, e validar em tempo real evita retrabalho. Experiência do usuário não pode ser tratada como etapa final.
+
+### Backend + Frontend: Valor Completo
+
+Desenvolvimento vai muito além de sintaxe. Combino **Python** (lógica, automações, backend) com **JavaScript** (interface e interação) — porque, no final, desenvolvimento é sobre entregar valor completo.
+
+---
+
+## 🔬 SQL + Python na Prática
+
+Trabalhar com SQL no backend e Python (pandas/polars) na análise me mostrou que eles pensam de formas completamente diferentes. Entender isso mudou como construo pipelines de dados:
+
+| Aspecto | Python/Pandas | SQL |
+|---------|---------------|-----|
+| **Filtro** | `.query()` ou máscaras booleanas — explícito e imediato | `WHERE` estático — declarativo |
+| **Relacionamentos** | `.merge()` com controle total de chave e direção | `JOIN` — mesma lógica, sintaxe diferente |
+| **Métricas** | `.assign()` ou direto no DataFrame — reutilizável | CTEs ou subconsultas |
+| **Agregação** | `.apply()`, `.transform()`, `.agg()` — vetorizado | `GROUP BY` + funções de agregação |
+
+Quando o backend Flask precisa retornar exatamente os mesmos números que os relatórios Python, esse entendimento é o que resolve. Dominar os dois é raro — e muito valorizado.
 
 ---
 
