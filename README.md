@@ -78,21 +78,6 @@ Atuo na **Ceopag Franchising SA** — subadquirente de pagamentos — construind
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| 🔗 Projeto | 📋 Descrição | 🛠️ Stack |
-|-----------|-------------|---------|
-| [🏦 monitoramento_sub](https://github.com/DaudRaquel/monitoramento_sub) | Plataforma de conciliação financeira para sub-adquirentes | Flask · MySQL · DuckDB |
-| [💸 woovi](https://github.com/DaudRaquel/woovi) | Integração Pix com webhook HMAC-SHA256 | Python · Flask · REST API |
-| [📊 processadoras_banco](https://github.com/DaudRaquel/processadoras_banco) | Pipeline ETL incremental com deduplicação SHA-256 | Python · MySQL · ETL |
-| [🔄 conciliacao_financeira](https://github.com/DaudRaquel/conciliacao_financeira) | Reconciliação financeira: interno vs processadora | Flask · DuckDB · API |
-| [📧 relatorio_receitas](https://github.com/DaudRaquel/relatorio_receitas) | Relatórios financeiros automáticos com envio por e-mail | Flask · MySQL · Excel |
-| [🤖 transfeera](https://github.com/DaudRaquel/transfeera) | Automação Selenium com 2FA TOTP | Python · Selenium · TOTP |
-| [📄 automatizar_documentos](https://github.com/DaudRaquel/automatizar_documentos) | Geração automática de PDFs via TOTVS RM + Oracle | Python · Oracle · ReportLab |
-| [✅ gerenciador_tarefas](https://github.com/DaudRaquel/gerenciador_tarefas) | Sistema de tarefas integrado ao ERP TOTVS | Flask · Oracle · SMTP |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
